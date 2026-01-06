@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🌱 I’m currently learning ...
-- AI
+- HPC (High Performance Computing)
+- AI (Artificial Intelligence)
 - Parallel/Distributed System
-- Deep Learning Compiler
-- AI Accelerator
+- LLM Acceleration
     
 ### Community
 - Reinforcement Learning Paper Study [4th (21.03 ~ 21.05)](https://github.com/utilForever/rl-paper-study/tree/main/4th#:~:text=et%20al%2C%202015.-,Wonho%20Lee,-%5Bpaper%5D%20%5Breview) & [5th (21.07 ~ 21.08)](https://github.com/utilForever/rl-paper-study/tree/main/5th#:~:text=et%20al%2C%202016.-,Wonho%20Lee,-%5Bpaper%5D%20%5Breview)  
